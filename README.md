@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+### I'm Anton
 get in touch @antonismahonis
 my personal site antonismahonis.com
 
