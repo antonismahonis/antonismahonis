@@ -1,5 +1,6 @@
 ### Hi there 👋
-this is my personal site
+get in touch @antonismahonis
+my persom=nal site antonismahonis.com
 
 <!--
 **antonismahonis/antonismahonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
