@@ -1,4 +1,4 @@
-<div align="center"><h3>Hi! I'm Anton</h3></div>
+<div align="center"><h1>Hi! I'm Anton</h1></div>
 <div align="center"><h3>get in touch @antonismahonis</h3></div>
 <div align="center"><h3>my personal site <a href="https://antonismahonis.com/">antonismahonis.com</a></h3></div>
 
