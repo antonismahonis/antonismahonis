@@ -1,4 +1,5 @@
 <div align="center"><h2>Hi! 👋 I'm Anton 🤓</h2></div>
+<h2 align="center">Welcome to my github 😺</h2>
 <div align="center"><h3>get in touch <a href="https://antonismahonis.com/" target=”_blank”>@antonismahonis</a></h3></div>
 
 <!--
