@@ -1,7 +1,6 @@
-<div align="center"><h3>Hi there! 👋</h3></div>
-### I'm Anton<br>
-## get in touch @antonismahonis<br>
-## my personal site antonismahonis.com<br>
+<div align="center"><h3>Hi! I'm Anton</h3></div>
+<div align="center"><h3>get in touch @antonismahonis</h3></div>
+<div align="center"><h3>my personal site <a href="antonismahonis.com">antonismahonis.com</a></h3></div>
 
 <!--
 **antonismahonis/antonismahonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
