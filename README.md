@@ -1,4 +1,4 @@
-<div align="center"><h3>Hi there! 👋</h3>h3></div>
+<div align="center"><h3>Hi there! 👋</h3></div>
 ### I'm Anton<br>
 ## get in touch @antonismahonis<br>
 ## my personal site antonismahonis.com<br>
