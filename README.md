@@ -12,7 +12,7 @@
 <p align="center">
   🛠️ My tech stack:<br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="[![image](https://github.com/antonismahonis/antonismahonis/assets/65728334/491028f1-e0ef-43a4-b742-b501a80dbcee)](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png)" alt="HTML" width="40" height="40"/>
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="HTML" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="ссылка_на_иконку_CSS" alt="CSS" width="40" height="40"/>
