@@ -1,6 +1,12 @@
+<div>    
 <p align="center">Hi! 👋 I'm Anton 🤓</p>
 <p align="center">Welcome to my GitHub 😺</p>
 <p align="center">Get in touch <a href="https://antonismahonis.com/" target=”_blank”>@antonismahonis</a> 👈</p>
+</div>
+<div>
+    
+</div>
+<div>
 <p align="center">🧑‍💻 I'm Full-stack Developer</p>
 <ul align="center">🛠️ My tech stack:
     <li>HTML</li>
@@ -19,7 +25,10 @@
     <li>Django</li>
     <li>Native</li>
 </ul>
+</div>
+<div>
 ![🔥 My Stats :](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true)
+</div>
 
 <!--
 **antonismahonis/antonismahonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
