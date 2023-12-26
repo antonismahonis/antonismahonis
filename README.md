@@ -27,7 +27,7 @@
 </ul>
 </div>
 <div>
-![🔥 My Stats :](https://github-readme-stats.vercel.app/api?username=amtonismahonis&show_icons=true)
+![🔥 My Stats :](https://github-readme-stats.vercel.app/api?username=antonismahonis&show_icons=true)
 </div>
 
 <!--
