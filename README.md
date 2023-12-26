@@ -19,7 +19,8 @@
     <li>Django</li>
     <li>Native</li>
 </ul>
-![🔥 My Stats :](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true)
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true)
+
 <!--
 **antonismahonis/antonismahonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
