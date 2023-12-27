@@ -1,13 +1,13 @@
 <div align="center">    
     <h3>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anton 🤓</h3>
-    <h4>Welcome to my GitHub 😺</h4>
+    <p>Welcome to my GitHub 😺</p>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <hr>
 <div align="center">
     <h3>🧑‍💻 About me :</h3>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-    <h4>I'm Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow</h4>
+    <p>I'm Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow</p>
 </div>
 <div style="display: flex; justify-content: center;">
     <ul style="list-style-type: disc; padding-left: 20px;">
@@ -16,7 +16,7 @@
         <li>👯 I’m looking to collaborate on web development projects and creating interactive web applications.</li>
         <li>🤔 I’m looking for help with mastering new web development technologies.</li>
         <li>💬 Ask me about anything related to JavaScript programming and web development.</li>
-        <li>📫 How to reach me: see the "📍 Contact" section.</li>
+        <li>📫 How to reach me: see the <a href="#contacts">📍 Contacts</a> section.</li>
         <li>😄 Pronouns: He/Him.</li>
         <li>⚡ Fun fact: I'm a freediving instructor and love traveling.</li>
     </ul>
@@ -24,7 +24,7 @@
 <hr>
 <div align="center">
     <h3>⚙️ My tech stack :</h3>
-    <h4>🛠️ Languages & Tools</h4>
+    <p>🛠️ Languages & Tools</p>
     <table>
         <tr>
             <!-- HTML -->
@@ -101,39 +101,39 @@
                 </td>
             </tr>
             <tr>
-                <!-- TypeScript -->
-                <td align="center">
-                    <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
-                        <img src="./svg/typescript-color.svg" alt="TypeScript" width="40" height="40"/><br/>
-                        <!-- TypeScript -->
-                    </a>
-                </td>
-                <!-- GIT -->
-                <td align="center">
-                    <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-                        <img src="./svg/git-color.svg" alt="GIT" width="40" height="40"/><br/>
-                        <!-- GIT -->
-                    </a>
-                </td>
-                <!-- Redux -->
-                <td align="center">
-                    <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
-                        <img src="./svg/redux-color.svg" alt="Redux" width="40" height="40"/><br/>
-                        <!-- Redux -->
-                    </a>
-                </td>
-                <!-- Django -->
-                <td align="center">
-                    <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none;">
-                        <img src="./svg/django-color.svg" alt="Django" width="40" height="40"/><br/>
-                        <!-- Django -->
-                    </a>
-            </td>
-            <!-- Native -->
+            <!-- TypeScript -->
             <td align="center">
-                <a href="https://reactnative.dev/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/react-color.svg" alt="Native" width="40" height="40"/><br/>
-                    <!-- Native -->
+                <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/typescript-color.svg" alt="TypeScript" width="40" height="40"/><br/>
+                    <!-- TypeScript -->
+                </a>
+            </td>
+            <!-- GIT -->
+            <td align="center">
+                <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/git-color.svg" alt="GIT" width="40" height="40"/><br/>
+                    <!-- GIT -->
+                </a>
+            </td>
+            <!-- Redux -->
+            <td align="center">
+                <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/redux-color.svg" alt="Redux" width="40" height="40"/><br/>
+                    <!-- Redux -->
+                </a>
+            </td>
+            <!-- Django -->
+            <td align="center">
+                <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/django-color.svg" alt="Django" width="40" height="40"/><br/>
+                    <!-- Django -->
+                </a>
+            </td>
+            <!-- Postman -->
+            <td align="center">
+                <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/postman-color.svg" alt="Postman" width="40" height="40"/><br/>
+                    <!-- Postman -->
                 </a>
             </td>
         </tr>
@@ -148,10 +148,10 @@
     <br>
     <img src="https://komarev.com/ghpvc/?username=antonismahonis&style=flat-square&color=blue" alt=""/>
 </div>
-<hr>
+<hr id="contacts">
 <div align="center">
     <h3>📍 Contacts: </h3>
-    <h4>Get in touch <a href="https://antonismahonis.com/" target=”_blank” style="text-decoration: none;">antonismahonis.com</a> 👈</h4>
+    <p>Get in touch <a href="https://antonismahonis.com/" target=”_blank” style="text-decoration: none;">antonismahonis.com</a> 👈</p>
     <table align="center">
         <tr>
             <!-- Instagram -->
@@ -191,7 +191,7 @@
             </td>
         </tr>
     </table>
-    <h4>My Email: <a href="mailto:@antonismahonis@gmail.com" style="text-decoration: none;">antonismahonis@gmail.com</a></h4>
+    <p>My Email: <a href="mailto:@antonismahonis@gmail.com" style="text-decoration: none;">antonismahonis@gmail.com</a></p>
 </div>
 <hr>
 <div align="center">
