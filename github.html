@@ -108,26 +108,26 @@
                 <!-- Django -->
                 </a>
             </td>
-            <!-- Redux -->
-            <td align="center">
-                <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/redux-color.svg" alt="Redux" width="40" height="40"/><br/>
-                    <!-- Redux -->
-                </a>
-            </td>
-            <!-- PostgreSQL -->
-            <td align="center">
-            <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
-                <img src="./svg/postgresql-color.svg" alt="PostgreSQL" width="40" height="40"/><br/>
-                <!-- PostgreSQL -->
-            </a>
-            </td>
             <!-- Node.js -->
             <td align="center">
             <a href="https://nodejs.org/en/" target="_blank" style="text-decoration: none;">
                 <img src="./svg/nodedotjs-color.svg" alt="Node.js" width="40" height="40"/><br/>
                 <!-- Node.js -->
             </a>
+            </td>
+            <!-- PostgreSQL -->
+            <td align="center">
+                <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/postgresql-color.svg" alt="PostgreSQL" width="40" height="40"/><br/>
+                    <!-- PostgreSQL -->
+                </a>
+            </td>
+            <!-- Redux -->
+            <td align="center">
+                <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/redux-color.svg" alt="Redux" width="40" height="40"/><br/>
+                    <!-- Redux -->
+                </a>
             </td>
             <!-- Express -->
             <td align="center">
