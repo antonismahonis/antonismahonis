@@ -196,16 +196,16 @@
 <hr>
 <div align="center">
     <h3>✍️ Blog Posts :</h3>
-    <div style="display: flex; justify-content: center;">
-        <ul style="list-style-type: disc; padding-left: 20px;">
-            <li><a href="#">Test Post 1</a></li>
-            <li><a href="#">Test Post 2</a></li>
-            <li><a href="#">Test Post 3</a></li>
-        </ul>
-    </div>
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START -->
+    
+    <!-- BLOG-POST-LIST:END -->
+</div>
+<div style="display: flex; justify-content: center;">
+    <ul style="list-style-type: disc; padding-left: 20px;">
+        <li><a href="#">Test Post 1</a></li>
+        <li><a href="#">Test Post 2</a></li>
+        <li><a href="#">Test Post 3</a></li>
+    </ul>
 </div>
 
 <!--
