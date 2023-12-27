@@ -167,7 +167,8 @@
         </tr>
     </table>
 </div>
-<hr>
+<hr>1
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonismahonis&theme=dark&background=000000)](https://git.io/streak-stats)
 <div align="center">
     <h3>🔥 My Stats :</h3>
     <div>
