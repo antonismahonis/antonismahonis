@@ -1,155 +1,169 @@
-<div>    
-<p align="center">Hi! 👋 I'm Anton 🤓</p>
-<p align="center">Welcome to my GitHub 😺</p>
-<p align="center">Get in touch <a href="https://antonismahonis.com/" target=”_blank”>@antonismahonis</a> 👈</p>
+<div align="center">    
+    <h2>Hi! 👋 I'm Anton 🤓</h2>
+    <h3>Welcome to my GitHub 😺</h3>
 </div>
-<div>
-    
-</div>
-<div>
-<p align="center">🧑‍💻 I'm Full-stack Developer</p>
-
 <div align="center">
-    <h3>🛠️ My tech stack:</h3>
+    <h3>Get in touch <a href="https://antonismahonis.com/" target=”_blank”>@antonismahonis.com</a> 👈</h3>
     <table align="center">
+        <tr>
+            <!-- Instagram -->
+            <td align="center">
+                <a href="https://instagram.com/antonismahonis/" target="_blank">
+                    <img src="./svg/instagram-color.svg" alt="Instagram" width="40" height="40"/><br/>
+                    Instagram
+                </a>
+            </td>
+            <!-- Facebook -->
+            <td align="center">
+                <a href="https://Facebook.com/antonismahonis/" target="_blank">
+                    <img src="./svg/facebook-color.svg" alt="Facebook" width="40" height="40"/><br/>
+                    Facebook
+                </a>
+            </td>
+            <!-- Telegram -->
+            <td align="center">
+                <a href="https://telegram.com/antonismahonis/" target="_blank">
+                    <img src="./svg/telegram-color.svg" alt="Telegram" width="40" height="40"/><br/>
+                    Telegram
+                </a>
+            </td>
+            <!-- Linkedin -->
+            <td align="center">
+                <a href="https://linkedin.com/in/antonismahonis/" target="_blank">
+                    <img src="./svg/linkedin-color.svg" alt="Linkedin" width="40" height="40"/><br/>
+                    Linkedin
+                </a>
+            </td>
+            <!-- GitHub -->
+            <td align="center">
+                <a href="https://github.com/antonismahonis/" target="_blank">
+                    <img src="./svg/github-color.svg" alt="GitHub" width="40" height="40"/><br/>
+                    GitHub
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+<div align="center">
+    <h2>🧑‍💻 I'm Full-Stack developer</h2>
+    <h3>🛠️ My tech stack:</h3>
+    <table>
         <tr>
             <!-- HTML -->
             <td align="center">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-                    <img src="svg/html.svg" alt="HTML" width="40" height="40"/><br/>
+                    <img src="./svg/html5-color.svg" alt="HTML" width="40" height="40"/><br/>
                     HTML
                 </a>
             </td>
             <!-- CSS -->
             <td align="center">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-                    <img src="svg/css.svg" alt="CSS" width="40" height="40"/><br/>
+                    <img src="./svg/css3-color.svg" alt="CSS" width="40" height="40"/><br/>
                     CSS
                 </a>
             </td>
-            <!-- JavaScript -->
-            <td align="center">
-                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                    <img src="svg/javascript.svg" alt="JavaScript" width="40" height="40"/><br/>
-                    JavaScript
-                </a>
-            </td>
-            <!-- Node.js -->
+                <!-- JavaScript -->
+                <td align="center">
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+                        <img src="./svg/javascript-color.svg" alt="JavaScript" width="40" height="40"/><br/>
+                        JavaScript
+                    </a>
+                </td>
+                <!-- Node.js -->
                 <td align="center">
                     <a href="https://nodejs.org/en/" target="_blank">
                         <img src="./svg/nodedotjs-color.svg" alt="Node.js" width="40" height="40"/><br/>
                         Node.js
                     </a>
                 </td>
-            <!-- Sequelize -->
-            <td align="center">
-                <a href="https://sequelize.org/" target="_blank">
-                    <img src="svg/sequelize.svg" alt="Sequelize" width="40" height="40"/><br/>
-                    Sequelize
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <!-- PostgreSQL -->
-            <td align="center">
-                <a href="https://www.postgresql.org/" target="_blank">
-                    <img src="svg/postgresql.svg" alt="PostgreSQL" width="40" height="40"/><br/>
-                    PostgreSQL
-                </a>
-            </td>
-            <!-- Express -->
-            <td align="center">
-                <a href="https://expressjs.com/" target="_blank">
-                    <img src="svg/express.svg" alt="Express" width="40" height="40"/><br/>
-                    Express
-                </a>
-            </td>
-            <!-- React -->
-            <td align="center">
-                <a href="https://reactjs.org/" target="_blank">
-                    <img src="svg/react.svg" alt="React" width="40" height="40"/><br/>
-                    React
-                </a>
-            </td>
-            <!-- Docker -->
-            <td align="center">
-                <a href="https://www.docker.com/" target="_blank">
-                    <img src="svg/docker.svg" alt="Docker" width="40" height="40"/><br/>
-                    Docker
-                </a>
-            </td>
-            <!-- WebSocket -->
-            <td align="center">
-                <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
-                    <img src="svg/websocket.svg" alt="WebSocket" width="40" height="40"/><br/>
-                    WebSocket
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <!-- TypeScript -->
-            <td align="center">
-                <a href="https://www.typescriptlang.org/" target="_blank">
-                    <img src="svg/typescript.svg" alt="TypeScript" width="40" height="40"/><br/>
-                    TypeScript
-                </a>
-            </td>
-            <!-- GIT -->
-            <td align="center">
-                <a href="https://git-scm.com/" target="_blank">
-                    <img src="svg/git.svg" alt="GIT" width="40" height="40"/><br/>
-                    GIT
-                </a>
-            </td>
-            <!-- Redux -->
-            <td align="center">
-                <a href="https://redux.js.org/" target="_blank">
-                    <img src="svg/redux.svg" alt="Redux" width="40" height="40"/><br/>
-                    Redux
-                </a>
-            </td>
-            <!-- Django -->
-            <td align="center">
-                <a href="https://www.djangoproject.com/" target="_blank">
-                    <img src="svg/django.svg" alt="Django" width="40" height="40"/><br/>
-                    Django
-                </a>
+                <!-- Sequelize -->
+                <td align="center">
+                    <a href="https://sequelize.org/" target="_blank">
+                        <img src="./svg/sequelize-color.svg" alt="Sequelize" width="40" height="40"/><br/>
+                        Sequelize
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <!-- PostgreSQL -->
+                <td align="center">
+                    <a href="https://www.postgresql.org/" target="_blank">
+                        <img src="./svg/postgresql-color.svg" alt="PostgreSQL" width="40" height="40"/><br/>
+                        PostgreSQL
+                    </a>
+                </td>
+                <!-- Express -->
+                <td align="center">
+                    <a href="https://expressjs.com/" target="_blank">
+                        <img src="./svg/express-color.svg" alt="Express" width="40" height="40"/><br/>
+                        Express
+                    </a>
+                </td>
+                <!-- React -->
+                <td align="center">
+                    <a href="https://reactjs.org/" target="_blank">
+                        <img src="./svg/react-color.svg" alt="React" width="40" height="40"/><br/>
+                        React
+                    </a>
+                </td>
+                <!-- Docker -->
+                <td align="center">
+                    <a href="https://www.docker.com/" target="_blank">
+                        <img src="./svg/docker-color.svg" alt="Docker" width="40" height="40"/><br/>
+                        Docker
+                    </a>
+                </td>
+                <!-- WebSocket -->
+                <td align="center">
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
+                        <img src="./svg/websocket-color.svg" alt="WebSocket" width="40" height="40"/><br/>
+                        WebSocket
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <!-- TypeScript -->
+                <td align="center">
+                    <a href="https://www.typescriptlang.org/" target="_blank">
+                        <img src="./svg/typescript-color.svg" alt="TypeScript" width="40" height="40"/><br/>
+                        TypeScript
+                    </a>
+                </td>
+                <!-- GIT -->
+                <td align="center">
+                    <a href="https://git-scm.com/" target="_blank">
+                        <img src="./svg/git-color.svg" alt="GIT" width="40" height="40"/><br/>
+                        GIT
+                    </a>
+                </td>
+                <!-- Redux -->
+                <td align="center">
+                    <a href="https://redux.js.org/" target="_blank">
+                        <img src="./svg/redux-color.svg" alt="Redux" width="40" height="40"/><br/>
+                        Redux
+                    </a>
+                </td>
+                <!-- Django -->
+                <td align="center">
+                    <a href="https://www.djangoproject.com/" target="_blank">
+                        <img src="./svg/django-color.svg" alt="Django" width="40" height="40"/><br/>
+                        Django
+                    </a>
             </td>
             <!-- Native -->
             <td align="center">
-                <a href="ссылка_на_соответствующую_технологию" target="_blank">
-                    <img src="svg/native.svg" alt="Native" width="40" height="40"/><br/>
+                <a href="https://reactnative.dev/" target="_blank">
+                    <img src="./svg/react-color.svg" alt="Native" width="40" height="40"/><br/>
                     Native
                 </a>
             </td>
         </tr>
     </table>
 </div>
-
-
-
-
-<ul align="center">🛠️ My tech stack:
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Node.js</li>
-    <li>Sequelize</li>
-    <li>PostgreSQL</li>
-    <li>Express</li>
-    <li>React</li>
-    <li>Docker</li>
-    <li>WebSocket</li>
-    <li>TypeScript</li>
-    <li>GIT</li>
-    <li>Redux</li>
-    <li>Django</li>
-    <li>Native</li>
-</ul>
+<div align="center">
+        [![🔥 My Stats :](https://github-readme-stats.vercel.app/api/top-langs/?username=antonismahonis&layout=donut)]
 </div>
-<div>
-</div>
-    [![🔥 My Stats :](https://github-readme-stats.vercel.app/api/top-langs/?username=antonismahonis&layout=donut)]
 
 <!--
 **antonismahonis/antonismahonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
