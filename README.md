@@ -172,6 +172,9 @@
 <div align="center">
     <h3>🔥 My Stats :</h3>
     <div>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antonismahonis&theme=nightowl" alt="GitHub Streak" /></a>
+    </div>
+    <div>
         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonismahonis&theme=dark&background=000000)](https://git.io/streak-stats)
     </div>
     <div>
