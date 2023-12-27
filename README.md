@@ -16,7 +16,7 @@
         <li>👯 I’m looking to collaborate on web development projects and creating interactive web applications.</li>
         <li>🤔 I’m looking for help with mastering new web development technologies.</li>
         <li>💬 Ask me about anything related to JavaScript programming and web development.</li>
-        <li>📫 How to reach me: see the "📍 Contact" section</li>
+        <li>📫 How to reach me: see the "📍 Contact" section.</li>
         <li>😄 Pronouns: He/Him.</li>
         <li>⚡ Fun fact: I'm a freediving instructor and love traveling.</li>
     </ul>
@@ -191,7 +191,7 @@
             </td>
         </tr>
     </table>
-    <h4>my email: <a href="mailto:@antonismahonis@gmail.com" style="text-decoration: none;">antonismahonis@gmail.com</a></h4>
+    <h4>My Email: <a href="mailto:@antonismahonis@gmail.com" style="text-decoration: none;">antonismahonis@gmail.com</a></h4>
 </div>
 <hr>
 <div align="center">
