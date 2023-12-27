@@ -136,11 +136,9 @@
         </tr>
     </table>
 </div>
-<hr>1
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonismahonis&theme=dark&background=000000)](https://git.io/streak-stats)
+<hr>
 <div align="center">
     <h3>🔥 My Stats :</h3>
-<<<<<<< HEAD
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antonismahonis&theme=nightowl" alt="GitHub Streak" /></a>
     <br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonismahonis&layout=donut" alt="GitHub Streak" /></a>
@@ -190,18 +188,6 @@
         </tr>
     </table>
     <h4>my email: <a href="mailto:@antonismahonis@gmail.com" style="text-decoration: none;">antonismahonis@gmail.com</a></h4>
-=======
-    <div>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=antonismahonis&theme=nightowl" alt="GitHub Streak" /></a>
-    </div>
-    <div>
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonismahonis&theme=dark&background=000000)](https://git.io/streak-stats)
-    </div>
-    <div>
-        [![🔥 My Stats :](https://github-readme-stats.vercel.app/api/top-langs/?username=antonismahonis&layout=donut)]
-    </div>
-        <img src="https://komarev.com/ghpvc/?username=antonismahonis&style=flat-square&color=blue" alt=""/>
->>>>>>> e09e5f7112144a0beaf3af59986cb4e729ef66f2
 </div>
 <hr>
 <div align="center">
