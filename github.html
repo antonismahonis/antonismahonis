@@ -1,3 +1,18 @@
+<style>
+    .centered-list {
+        display: flex;
+        justify-content: center;
+    }
+
+    .centered-list ul {
+        list-style-type: disc;
+        padding-left: 20px;
+    }
+
+    .centered-list ul li {
+        text-align: left;
+    }
+</style>
 <div align="center">    
     <h3>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anton 🤓</h3>
     <h4>Welcome to my GitHub 😺</h4>
@@ -5,16 +20,18 @@
 </div>
 <hr>
 <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     <h3>🧑‍💻 About me :</h3>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     <h4>I'm Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow</h4>
+</div>
+<div class="centered-list">
     <ul>
         <li>🔭 I’m currently working on developing my skills in Full Stack development.</li>
         <li>🌱 I’m currently learning advanced concepts and tools for Full Stack development.</li>
         <li>👯 I’m looking to collaborate on web development projects and creating interactive web applications.</li>
         <li>🤔 I’m looking for help with mastering new web development technologies.</li>
         <li>💬 Ask me about anything related to JavaScript programming and web development.</li>
-        <li>📫 How to reach me: through my LinkedIn, Instagram, Facebook, or Telegram profiles.</li>
+        <li>📫 How to reach me: see the "📍 Contact" section</li>
         <li>😄 Pronouns: He/Him.</li>
         <li>⚡ Fun fact: I'm a freediving instructor and love traveling.</li>
     </ul>
@@ -148,7 +165,8 @@
 </div>
 <hr>
 <div align="center">
-    <h3>Get in touch <a href="https://antonismahonis.com/" target=”_blank” style="text-decoration: none;">antonismahonis.com</a> 👈</h3>
+    <h3>📍 Contacts: </h3>
+    <h4>Get in touch <a href="https://antonismahonis.com/" target=”_blank” style="text-decoration: none;">antonismahonis.com</a> 👈</h4>
     <table align="center">
         <tr>
             <!-- Instagram -->
@@ -193,9 +211,13 @@
 <hr>
 <div align="center">
     <h3>✍️ Blog Posts :</h3>
-    <ul>
-        <li><a href="#">Test Post</a></li>
-    </ul>
+    <div class="centered-list">
+        <ul>
+            <li><a href="#">Test Post 1</a></li>
+            <li><a href="#">Test Post 2</a></li>
+            <li><a href="#">Test Post 3</a></li>
+        </ul>
+    </div>
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
