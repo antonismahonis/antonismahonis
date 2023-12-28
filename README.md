@@ -1,5 +1,5 @@
 <div align="center">    
-    <h3>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anton 🤓</h3>
+    <h3>Hi! <img href="#" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anton 🤓</h3>
     <p>Welcome to my GitHub 😺</p>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -193,7 +193,7 @@
     </table>
     <p>My Email: <a href="mailto:@antonismahonis@gmail.com" style="text-decoration: none;">antonismahonis@gmail.com</a></p>
 </div>
-<hr>
+<hr id="blog">
 <div align="center">
     <h3>✍️ Blog Posts :</h3>
     <!-- BLOG-POST-LIST:START -->
@@ -201,9 +201,9 @@
 </div>
 <div style="display: flex; justify-content: center;">
     <ul style="list-style-type: disc; padding-left: 20px;">
-        <li><a href="#" style="text-decoration: none;">Test Post 1</a></li>
-        <li><a href="#" style="text-decoration: none;">Test Post 2</a></li>
-        <li><a href="#" style="text-decoration: none;">Test Post 3</a></li>
+        <li><a href="#blog" style="text-decoration: none;">Test Post 1</a></li>
+        <li><a href="#blog" style="text-decoration: none;">Test Post 2</a></li>
+        <li><a href="#blog" style="text-decoration: none;">Test Post 3</a></li>
     </ul>
 </div>
 
