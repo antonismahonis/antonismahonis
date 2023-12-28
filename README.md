@@ -6,8 +6,8 @@
 <hr>
 <div align="center">
     <h3>🧑‍💻 About me :</h3>
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     <p>I'm Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow</p>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div style="display: flex; justify-content: center;">
     <ul style="list-style-type: disc; padding-left: 20px;">
