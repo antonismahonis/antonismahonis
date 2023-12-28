@@ -162,6 +162,13 @@
                 </a>
                 <br/><p>Instagram</p>
             </td>
+            <!-- Linkedin -->
+            <td align="center">
+                <a href="https://linkedin.com/in/antonismahonis/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/linkedin-color.svg" alt="Linkedin" width="40" height="40"/>
+                </a>
+                <br/><p>LinkedIn</p>
+            </td>
             <!-- Facebook -->
             <td align="center">
                 <a href="https://facebook.com/antonismahonis/" target="_blank" style="text-decoration: none;">
@@ -175,13 +182,6 @@
                     <img src="./svg/telegram-color.svg" alt="Telegram" width="40" height="40"/>
                 </a>
                 <br/><p>Telegram</p>
-            </td>
-            <!-- Linkedin -->
-            <td align="center">
-                <a href="https://linkedin.com/in/antonismahonis/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/linkedin-color.svg" alt="Linkedin" width="40" height="40"/>
-                </a>
-                <br/><p>LinkedIn</p>
             </td>
             <!-- GitHub -->
             <td align="center">
