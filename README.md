@@ -158,37 +158,37 @@
             <!-- Instagram -->
             <td align="center">
                 <a href="https://instagram.com/antonismahonis/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/instagram-color.svg" alt="Instagram" width="40" height="40"/><br/>
-                    <!-- Instagram -->
+                    <img src="./svg/instagram-color.svg" alt="Instagram" width="40" height="40"/>
                 </a>
+                <br/><p>Instagram</p>
             </td>
             <!-- Facebook -->
             <td align="center">
                 <a href="https://facebook.com/antonismahonis/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/facebook-color.svg" alt="Facebook" width="40" height="40"/><br/>
-                    <!-- Facebook -->
+                    <img src="./svg/facebook-color.svg" alt="Facebook" width="40" height="40"/>
                 </a>
+                <br/><p>Facebook</p>
             </td>
             <!-- Telegram -->
             <td align="center">
                 <a href="https://t.me/antonismahonis/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/telegram-color.svg" alt="Telegram" width="40" height="40"/><br/>
-                    <!-- Telegram -->
+                    <img src="./svg/telegram-color.svg" alt="Telegram" width="40" height="40"/>
                 </a>
+                <br/><p>Telegram</p>
             </td>
             <!-- Linkedin -->
             <td align="center">
                 <a href="https://linkedin.com/in/antonismahonis/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/linkedin-color.svg" alt="Linkedin" width="40" height="40"/><br/>
-                    <!-- Linkedin -->
+                    <img src="./svg/linkedin-color.svg" alt="Linkedin" width="40" height="40"/>
                 </a>
+                <br/><p>LinkedIn</p>
             </td>
             <!-- GitHub -->
             <td align="center">
                 <a href="https://github.com/antonismahonis/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/github-color.svg" alt="GitHub" width="40" height="40"/><br/>
-                    <!-- GitHub -->
+                    <img src="./svg/github-color.svg" alt="GitHub" width="40" height="40"/>
                 </a>
+                <br/><p>GitHub</p>
             </td>
         </tr>
     </table>
