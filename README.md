@@ -151,7 +151,7 @@
 <hr id="contacts">
 <div align="center">
     <h3>📍 Contacts: </h3>
-    <p>My website <a href="https://antonismahonis.com/" target=”_blank” style="text-decoration: none;">antonismahonis.com</a> 👈</p><br>
+    <p>My website <a href="https://antonismahonis.com/" target=”_blank” style="text-decoration: none;">antonismahonis.com</a> 👈</p>
     <p>Get in touch @antonismahonis</p>
     <table align="center">
         <tr>
