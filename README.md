@@ -28,7 +28,7 @@
     <table>
         <tr>
             <!-- JavaScript -->
-            <td align="center" style="width: 50px">
+            <td align="center" style="width: 100px">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
                     <img src="./svg/javascript-color.svg" alt="JavaScript" width="40" height="40"/>
                 </a>
