@@ -28,35 +28,35 @@
     <table>
         <tr>
             <!-- JavaScript -->
-            <td align="center" style="width: 200px">
+            <td align="center">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
                     <img src="./svg/javascript-color.svg" alt="JavaScript" width="40" height="40"/>
                 </a>
                 <br/><p>JavaScript</p>
             </td>
             <!-- HTML -->
-            <td align="center" style="width: 200px">
+            <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
                 <img src="./svg/html5-color.svg" alt="HTML" width="40" height="40"/>
             </a>
                 <br/><p>HTML</p>
             </td>
             <!-- Postman -->
-            <td align="center" style="width: 100px">
+            <td align="center">
                 <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/postman-color.svg" alt="Postman" width="40" height="40"/>
                 </a>
                 <br/><p>Postman</p>
             </td>
             <!-- GIT -->
-            <td align="center" style="width: 100px">
+            <td align="center">
             <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
                 <img src="./svg/git-color.svg" alt="GIT" width="40" height="40"/>
             </a>
                 <br/><p>GIT</p>
             </td>
             <!-- WebSocket -->
-            <td align="center" style="width: 100px">
+            <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" style="text-decoration: none;">
                 <img src="./svg/websocket-color.svg" alt="WebSocket" width="40" height="40"/>
             </a>
