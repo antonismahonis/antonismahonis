@@ -18,7 +18,7 @@
         <li>💬 Ask me about anything related to JavaScript programming and web development.</li>
         <li>📫 How to reach me: see the <a href="#contacts">📍 Contacts</a> section.</li>
         <li>😄 Pronouns: He/Him.</li>
-        <li>⚡ Fun fact: I'm a freediving instructor and love traveling.</li>
+        <li>⚡ Fun fact: I'm a freediving instructor, also I like traveling and outdoors activities.</li>
     </ul>
 </div>
 <hr>
@@ -151,8 +151,8 @@
 <hr id="contacts">
 <div align="center">
     <h3>📍 Contacts: </h3>
-    <p>My website <a href="https://antonismahonis.com/" target=”_blank” style="text-decoration: none;">antonismahonis.com</a> 👈</p>
-    <p>Get in touch @antonismahonis</p>
+    <p>My Website 👉 <a href="https://antonismahonis.com/" target=”_blank” style="text-decoration: none;">antonismahonis.com</a></p>
+    <p>🤝 Follow me @antonismahonis</p>
     <table align="center">
         <tr>
             <!-- Instagram -->
@@ -192,7 +192,7 @@
             </td>
         </tr>
     </table>
-    <p>My Email: <a href="mailto:@antonismahonis@gmail.com" style="text-decoration: none;">antonismahonis@gmail.com</a></p>
+    <p>My Email 👉 <a href="mailto:@antonismahonis@gmail.com" style="text-decoration: none;">antonismahonis@gmail.com</a></p>
 </div>
 <hr id="blog">
 <div align="center">
