@@ -31,36 +31,36 @@
             <td align="center">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
                     <img src="./svg/javascript-color.svg" alt="JavaScript" width="40" height="40"/><br/>
-                    <!-- JavaScript -->
                 </a>
+                <br/><p>JavaScript</p>
             </td>
             <!-- HTML -->
             <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
                 <img src="./svg/html5-color.svg" alt="HTML" width="40" height="40"/><br/>
-                <!-- HTML -->
             </a>
+                <br/><p>HTML</p>
             </td>
             <!-- Postman -->
             <td align="center">
                 <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/postman-color.svg" alt="Postman" width="40" height="40"/><br/>
-                    <!-- Postman -->
                 </a>
+                <br/><p>Postman</p>
             </td>
             <!-- GIT -->
             <td align="center">
             <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
                 <img src="./svg/git-color.svg" alt="GIT" width="40" height="40"/><br/>
-                <!-- GIT -->
             </a>
+                <br/><p>GIT</p>
             </td>
             <!-- WebSocket -->
             <td align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" style="text-decoration: none;">
                 <img src="./svg/websocket-color.svg" alt="WebSocket" width="40" height="40"/><br/>
-                <!-- WebSocket -->
             </a>
+                <br/><p>WebSocket</p>
             </td>
             </tr>
             <tr>
@@ -68,36 +68,36 @@
                 <td align="center">
                 <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/typescript-color.svg" alt="TypeScript" width="40" height="40"/><br/>
-                    <!-- TypeScript -->
                 </a>
+                    <br/><p>TypeScript</p>
                 </td>
                 <!-- CSS -->
                 <td align="center">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
                     <img src="./svg/css3-color.svg" alt="CSS" width="40" height="40"/><br/>
-                    <!-- CSS -->
                 </a>
+                    <br/><p>CSS</p>
                 </td>
                 <!-- Docker -->
                 <td align="center">
                 <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/docker-color.svg" alt="Docker" width="40" height="40"/><br/>
-                    <!-- Docker -->
                 </a>
+                    <br/><p>Docker</p>
                 </td>
                 <!-- Sequelize -->
                 <td align="center">
                 <a href="https://sequelize.org/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/sequelize-color.svg" alt="Sequelize" width="40" height="40"/><br/>
-                    <!-- Sequelize -->
                 </a>
+                    <br/><p>Sequelize</p>
                 </td>
                 <!-- React -->
                 <td align="center">
                 <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/react-color.svg" alt="React" width="40" height="40"/><br/>
-                    <!-- React -->
                 </a>
+                    <br/><p>React</p>
                 </td>
             </tr>
             <tr>
@@ -107,34 +107,35 @@
                 <img src="./svg/django-color.svg" alt="Django" width="40" height="40"/><br/>
                 <!-- Django -->
                 </a>
+                <br/><p></p>
             </td>
             <!-- Node.js -->
             <td align="center">
             <a href="https://nodejs.org/en/" target="_blank" style="text-decoration: none;">
                 <img src="./svg/nodedotjs-color.svg" alt="Node.js" width="40" height="40"/><br/>
-                <!-- Node.js -->
             </a>
+                <br/><p>Node.js</p>
             </td>
             <!-- PostgreSQL -->
             <td align="center">
                 <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/postgresql-color.svg" alt="PostgreSQL" width="40" height="40"/><br/>
-                    <!-- PostgreSQL -->
                 </a>
+                <br/><p>PostgreSQL</p>
             </td>
             <!-- Redux -->
             <td align="center">
                 <a href="https://redux.js.org/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/redux-color.svg" alt="Redux" width="40" height="40"/><br/>
-                    <!-- Redux -->
                 </a>
+                <br/><p>Redux</p>
             </td>
             <!-- Express -->
             <td align="center">
             <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
                 <img src="./svg/express-color.svg" alt="Express" width="40" height="40"/><br/>
-                <!-- Express -->
             </a>
+                <br/><p>Express</p>
             </td>
         </tr>
     </table>
