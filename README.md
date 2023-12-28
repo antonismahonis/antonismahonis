@@ -152,7 +152,7 @@
 <div align="center">
     <h3>📍 Contacts: </h3>
     <p>My Website 👉 <a href="https://antonismahonis.com/" target=”_blank” style="text-decoration: none;">antonismahonis.com</a></p>
-    <p>🤝 Follow me @antonismahonis</p>
+    <p>Follow me 👍 @antonismahonis</p>
     <table align="center">
         <tr>
             <!-- Instagram -->
