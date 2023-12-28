@@ -162,19 +162,19 @@
                 </a>
                 <br/><p>Instagram</p>
             </td>
-            <!-- Linkedin -->
-            <td align="center">
-                <a href="https://linkedin.com/in/antonismahonis/" target="_blank" style="text-decoration: none;">
-                    <img src="./svg/linkedin-color.svg" alt="Linkedin" width="40" height="40"/>
-                </a>
-                <br/><p>LinkedIn</p>
-            </td>
             <!-- Facebook -->
             <td align="center">
                 <a href="https://facebook.com/antonismahonis/" target="_blank" style="text-decoration: none;">
                     <img src="./svg/facebook-color.svg" alt="Facebook" width="40" height="40"/>
                 </a>
                 <br/><p>Facebook</p>
+            </td>
+            <!-- Linkedin -->
+            <td align="center">
+                <a href="https://linkedin.com/in/antonismahonis/" target="_blank" style="text-decoration: none;">
+                    <img src="./svg/linkedin-color.svg" alt="Linkedin" width="40" height="40"/>
+                </a>
+                <br/><p>LinkedIn</p>
             </td>
             <!-- Telegram -->
             <td align="center">
