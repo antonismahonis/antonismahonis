@@ -28,14 +28,14 @@
     <table>
         <tr>
             <!-- JavaScript -->
-            <td align="center" style="width: 100px">
+            <td align="center" style="width: 200px">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
                     <img src="./svg/javascript-color.svg" alt="JavaScript" width="40" height="40"/>
                 </a>
                 <br/><p>JavaScript</p>
             </td>
             <!-- HTML -->
-            <td align="center" style="width: 100px">
+            <td align="center" style="width: 200px">
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
                 <img src="./svg/html5-color.svg" alt="HTML" width="40" height="40"/>
             </a>
