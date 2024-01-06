@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #222;
+    color: #ccc;
+  }
+
+  a {
+  color: #ccc;
+  text-decoration: none;
+  background-color: #222;
+  }
+
+  a:hover {
+  color: #fff;
+  text-decoration: underline;
+  }
+
+  input {
+    width: 50px;
+  }
+
+  #game-container {
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  #input,
+  #button,
+  span {
+    margin-bottom: 20px;
+  }
+
+  .grid {
+    display: grid;
+    gap: 1px;
+    justify-content: center;
+  }
+
+  .cell {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+
+  .alive {
+    background-color: #99ff99;
+    border-radius: 50%;
+  }
+
+  .dead {
+    background-color: #ccc;
+    border-radius: 50%;
+  }
