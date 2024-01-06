@@ -95,16 +95,20 @@ strong {
     font-size: 20px;
 }
 
+body {
+    background-color: #1a1a1a;
+}
+
 body,
 a {
-    color: #ccc;
+    color: #ddd;
     text-decoration: none;
-    background-color: #222;
+    text-align: center;
 }
 
 a:hover {
     color: #fff;
-    text-decoration: underline;
+    font-weight: bold;
 }
 
 header {
@@ -153,7 +157,7 @@ header {
     width: 100vw;
     height: 300px;
     background: linear-gradient(135deg, #380282, #0343df, #4169e1, #1e90ff, #bf71f6, #d188d1, #ff81c0, #f16ab7, #ffa500, #e50000);
-    background-image: url(./img/wall-developer.jpg);
+    background-image: url(../img/wall-developer.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -161,8 +165,8 @@ header {
 
 #wall-text {
     font-family: 'Lobster', cursive;
-    color: #ccc;
     font-size: 50px;
+    color: #eee;
 }
 
 #maincont {
@@ -186,7 +190,7 @@ header {
 #mainpic {
     width: 150px;
     border-radius: 50%;
-    border: 8px solid #222;
+    border: 8px solid #1a1a1a;
     margin-top: -83px;
 }
 
@@ -199,13 +203,15 @@ header {
 }
 
 .icon {
-    fill: #ccc;
+    fill: #ddd;
     width: 50px;
     height: 50px;
 }
 
 .icon:hover {
     margin-top: -10px;
+    fill: #fff;
+    transform: scale(1.02);
 }
 
 .class {
@@ -251,7 +257,7 @@ header {
         height: 100px;
         width: 100px;
         border-radius: 50%;
-        border: 5px solid #222;
+        border: 5px solid #1a1a1a;
         margin-top: -55px;
         margin-right: 5px;
     }
@@ -282,7 +288,7 @@ header {
     #mainpic {
         height: 60px;
         width: 60px;
-        border: 3px solid #222;
+        border: 3px solid #1a1a1a;
         margin-top: -33px;
     }
 
