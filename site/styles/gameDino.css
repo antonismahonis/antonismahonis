@@ -1,0 +1,155 @@
+.container {
+    height: 100vh;
+    text-align: center;
+    font-family: inherit;
+}
+
+.game {
+    width: 800px;
+    height: 150px;
+    background-color: #f7f7f7;
+    /* #f7f7f7 */
+    margin: auto;
+}
+
+#dino {
+    width: 40px;
+    height: 43px;
+    background-image: url(../GameDino/data/main-character3.png);
+    background-size: 40px 43px;
+    position: relative;
+    top: 45px;
+    left: 20px;
+    animation: dinoRun 0.25s infinite;
+}
+
+#cactus {
+    width: 23px;
+    height: 46px;
+    background-image: url(../GameDino/data/cactus1.png);
+    background-size: 23px 46px;
+    position: relative;
+    top: 0px;
+    left: 680px;
+    animation: cactusMov 3s infinite linear;
+}
+
+#ground {
+    width: 71px;
+    height: 29px;
+    background-size: 71px 29px;
+    position: relative;
+    top: 121px;
+    left: 0px;
+    animation: groundMov 3s infinite linear;
+}
+
+
+#cloud {
+    width: 48px;
+    height: 26px;
+    background-image: url(../GameDino/data/cloud.PNG);
+    background-size: 48px 26px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    animation: cactusMov 10s infinite linear;
+}
+
+@keyframes cactusMov {
+    0% {
+        left: 100%;
+        position: right;
+    }
+
+    100% {
+        left: -11.5px;
+    }
+}
+
+@keyframes dinoRun {
+    0% {
+        background-image: url(../GameDino/data/main-character1.png);
+    }
+
+    50% {
+        background-image: url(../GameDino/data/main-character2.png);
+    }
+
+    100% {
+        background-image: url(../GameDino/data/main-character1.png);
+    }
+}
+
+/* .run {
+    animation: dinoRun 0.25s infinite;
+} */
+
+.jump {
+    animation: jump 0.7s linear;
+}
+
+/* #dino:not(.jump) {
+    background-image: url(../GameDino/data/main-character1.png);
+} */
+
+/* #dino.run {
+    background-image: url(../GameDino/data/main-character2.png);
+} */
+
+@keyframes jump {
+    0% {
+        top: 45px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+
+    10% {
+        top: -15px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+
+    20% {
+        top: -70px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+
+    30% {
+        top: -80px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+
+    40% {
+        top: -80px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+
+    50% {
+        top: -80px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+
+    60% {
+        top: -80px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+
+    70% {
+        top: -80px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+
+    80% {
+        top: -70px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+
+    90% {
+        top: -15px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+
+    100% {
+        top: 45px;
+        background-image: url(../GameDino/data/main-character3.png);
+    }
+}
