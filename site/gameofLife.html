@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game of Life</title>
+  <link rel="stylesheet" href="./styles/main.css">
+  <link rel="stylesheet" href="./styles/gameofLife.css">
+  <script defer src="./GameOfLife/gameofLife.js"></script>
+</head>
+<body>
+  <div id="game-container">
+    <a href="./index.html">Home</a>
+    <h1>Game of Life</h1>
+    <div>
+      <p>
+        The Game of Life is a cellular automaton devised by mathematician John Conway in 1970.<br>
+        It is a zero-player game, meaning that its evolution is determined by its initial state, with no further input.<br>
+        The game consists of a grid of cells, each of which can be in one of two states: alive or dead.
+      </p>
+      <p>
+        The evolution of the game is governed by simple rules:
+        <ul>
+          <li>Any live cell with fewer than two live neighbors dies (underpopulation).</li>
+          <li>Any live cell with two or three live neighbors lives on to the next generation.</li>
+          <li>Any live cell with more than three live neighbors dies (overpopulation).</li>
+          <li>Any dead cell with exactly three live neighbors becomes a live cell (reproduction).</li>
+        </ul>
+      </p>
+      <p>
+        To interact with the game, click on cells to toggle their state.<br>
+        Experiment with different initial configurations and observe how the patterns evolve over time.
+      </p>
+    </div>
+    <div id="input">
+      <label for="rows">Rows: </label>
+      <input type="number" id="rows" min="1" value="10">
+      <br>
+      <label for="cols">Columns: </label>
+      <input type="number" id="cols" min="1" value="10">
+      <br>
+      <label for="cycle-time">Cycle Time (s): </label>
+      <input type="number" id="cycle-time" min="0.1" step="0.1" value="1">
+    </div>
+    <div id="button">
+      <button onclick="applyChanges()">Apply</button>
+      <button onclick="randomizeGrid()">Random</button>
+      <button onclick="startGame()">Start</button>
+      <button onclick="clearGrid()">Clear</button>
+    </div>
+    <span id="cycle-counter">Cycle: 0</span>
+    <div class="grid" id="grid"></div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,37 @@
+  input {
+    width: 50px;
+  }
+
+  #game-container {
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  #input,
+  #button,
+  span {
+    margin-bottom: 20px;
+  }
+
+  .grid {
+    display: grid;
+    gap: 1px;
+    justify-content: center;
+  }
+
+  .cell {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+
+  .alive {
+    background-color: #4cbb17;
+    border-radius: 50%;
+  }
+
+  .dead {
+    background-color: #ddd;
+    border-radius: 50%;
+  }

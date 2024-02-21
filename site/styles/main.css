@@ -1,0 +1,307 @@
+/* 
+display: flex;
+
+выравнивает элементы горизонтально
+justify-content: flex-start, flex-end, center, space-between, space-around;
+
+выравнивает элементы вертикально
+align-items: flex-start, flex-end, center, baseline, stretch;
+
+выстраивает порядок элементов
+flex-direction: row, row-reverse, column, column-reverse;
+
+изменение порядка элемента
+order: -2, -1, 0, 1, 2;
+
+изменение элемента по высоте
+align-self: flex-start, flex-end, center;
+
+элементы автоматически переносятся на новую строку или сжимаются
+flex-wrap: nowrap, wrap, wrap-reverse;
+
+свойства flex-direction и flex-wrap совместно
+flex-flow: 
+
+как несколько рядов должны отделяться друг от друга
+align-content: flex-start, flex-end, center, space-between, space-around, stretch;
+
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Lobster&display=swap');
+
+.inrow {
+    display: flex;
+    flex-direction: row;
+}
+
+.incol {
+    display: flex;
+    flex-direction: column;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.incenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.invercenter {
+    display: flex;
+    align-items: center;
+}
+
+.inverend {
+    display: flex;
+    align-items: flex-end;
+}
+
+.ingorcenter {
+    display: flex;
+    justify-content: center;
+}
+
+.ingorend {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.inbtwn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.inrnd {
+    display: flex;
+    justify-content: space-around;
+}
+
+.border {
+    border: 1px solid yellow;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+strong {
+    font-size: 20px;
+}
+
+body {
+    background-color: #1a1a1a;
+}
+
+body,
+a {
+    color: #ddd;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    color: #fff;
+    font-weight: bold;
+}
+
+header {
+    width: 100vw;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: rgb(34, 34, 34, 0.95);
+}
+
+.header {
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menubtn,
+.menubtn2 {
+    min-width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ham {
+    display: none;
+}
+
+#close {
+    display: none;
+}
+
+#slideMenu {
+    width: 100vw;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+#wall {
+    width: 100vw;
+    height: 300px;
+    background: linear-gradient(135deg, #380282, #0343df, #4169e1, #1e90ff, #bf71f6, #d188d1, #ff81c0, #f16ab7, #ffa500, #e50000);
+    background-image: url(../img/wall-developer.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#wall-text {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    color: #eee;
+}
+
+#maincont {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#maintext {
+    display: flex;
+    justify-content: center;
+    align-items: space-around;
+    width: 500px;
+}
+
+#mainname {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#mainpic {
+    width: 150px;
+    border-radius: 50%;
+    border: 8px solid #1a1a1a;
+    margin-top: -83px;
+}
+
+.icons {
+    width: 500px;
+    height: 88px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.icon {
+    fill: #ddd;
+    width: 50px;
+    height: 50px;
+}
+
+.icon:hover {
+    margin-top: -10px;
+    fill: #fff;
+    transform: scale(1.02);
+}
+
+.class {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5em
+}
+
+@media screen and (max-width: 768px) {
+    .menubtn {
+        display: none;
+    }
+
+    #ham {
+        display: contents;
+    }
+
+    #wall {
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    h1 {
+        font-size: 25px;
+    }
+
+    strong {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    #mainpic {
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        border: 5px solid #1a1a1a;
+        margin-top: -55px;
+        margin-right: 5px;
+    }
+
+    .icon {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width: 385px) {
+    #wall-text {
+        font-size: 30px;
+    }
+
+    h1 {
+        font-size: 16px;
+    }
+
+    strong {
+        font-size: 10px;
+    }
+
+    p {
+        font-size: 8px;
+    }
+
+    #mainpic {
+        height: 60px;
+        width: 60px;
+        border: 3px solid #1a1a1a;
+        margin-top: -33px;
+    }
+
+    #wall {
+        height: 200px;
+    }
+
+    .icons {
+        min-width: 250px;
+    }
+
+    .icon {
+        width: 30px;
+        height: 30px;
+    }
+}
