@@ -6,16 +6,16 @@
 <hr>
 <div align="center">
     <h3>🧑‍💻 About me :</h3>
-    <p>I'm Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow</p>
+    <p>I'm AQA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow</p>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div style="display: flex; justify-content: center;">
     <ul style="list-style-type: disc; padding-left: 20px;">
-        <li>🔭 I’m currently working on developing my skills in Full Stack development.</li>
-        <li>🌱 I’m currently learning advanced concepts and tools for Full Stack development.</li>
-        <li>👯 I’m looking to collaborate on web development projects and creating interactive web applications.</li>
-        <li>🤔 I’m looking for help with mastering new web development technologies.</li>
-        <li>💬 Ask me about anything related to JavaScript programming and web development.</li>
+        <li>🔭 I’m currently working on developing my skills in Automated Quality Assurance.</li>
+        <li>🌱 I’m currently learning advanced concepts and tools for test automation.</li>
+        <li>👯 I’m looking to collaborate on software testing projects and improving automation frameworks.</li>
+        <li>🤔 I’m looking for help with mastering new testing tools and methodologies.</li>
+        <li>💬 Ask me about anything related to test automation, QA processes, and software quality assurance.</li>
         <li>📫 How to reach me: see the <a href="#contacts">📍 Contacts</a> section.</li>
         <li>😄 Pronouns: He/Him.</li>
         <li>⚡ Fun fact: I'm a freediving instructor, also I like traveling and outdoors activities.</li>
