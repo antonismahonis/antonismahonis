@@ -140,7 +140,7 @@
     </table>
 </div>
 <hr>
-<div align="center">
+<!-- <div align="center">
     <h3>🔥 My Stats :</h3>
     [![GitHub Streak](https://streak-stats.demolab.com/?user=antonismahonis)](https://git.io/streak-stats)
     [![GitHub Streak](https://streak-stats.demolab.com/?user=antonismahonis&theme=dark)](https://git.io/streak-stats)
@@ -150,6 +150,26 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonismahonis&layout=compact&theme=nightowl" alt="GitHub Streak" /></a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=antonismahonis&style=flat-square&color=blue" alt=""/>
+</div> -->
+<div align="center">
+    <h3>🔥 My Stats :</h3>
+    <!-- GitHub Streak -->
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=antonismahonis&theme=nightowl" alt="GitHub Streak"/>
+    </a>
+    <br>
+    <!-- GitHub Stats -->
+    <a href="https://github.com/antonismahonis">
+        <img src="https://github-readme-stats.vercel.app/api?username=antonismahonis&show_icons=true&theme=nightowl" alt="GitHub Stats"/>
+    </a>
+    <br>
+    <!-- Most Used Languages -->
+    <a href="https://github.com/antonismahonis">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonismahonis&layout=compact&theme=nightowl" alt="Most Used Languages"/>
+    </a>
+    <br>
+    <!-- Profile Views Counter -->
+    <img src="https://komarev.com/ghpvc/?username=antonismahonis&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 <hr id="contacts">
 <div align="center">
