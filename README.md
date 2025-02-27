@@ -151,24 +151,11 @@
     <br>
     <img src="https://komarev.com/ghpvc/?username=antonismahonis&style=flat-square&color=blue" alt=""/>
 </div> -->
-<div align="center">
-    <h3>🔥 My Stats :</h3>
-    <!-- GitHub Streak -->
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=antonismahonis&theme=nightowl" alt="GitHub Streak"/>
-    </a>
-    <br>
-    <!-- GitHub Stats -->
-    <a href="https://github.com/antonismahonis">
-        <img src="https://github-readme-stats.vercel.app/api?username=antonismahonis&show_icons=true&theme=nightowl" alt="GitHub Stats"/>
-    </a>
-    <br>
-    <!-- Most Used Languages -->
-    <a href="https://github.com/antonismahonis">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonismahonis&layout=compact&theme=nightowl" alt="Most Used Languages"/>
-    </a>
-    <br>
-    <!-- Profile Views Counter -->
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonismahonis&theme=nightowl" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antonismahonis&theme=nightowl" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antonismahonis&theme=nightowl" />
+    <br/>
     <img src="https://komarev.com/ghpvc/?username=antonismahonis&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 <hr id="contacts">
